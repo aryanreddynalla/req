@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "City Care Hospital",
+        "location": "Hyderabad",
+        "distance_km": 3.2,
+        "on_duty": true,
+        "emergency_available": false,
+        "specialists": {
+            "Cardiologist": true,
+            "Neurologist": true,
+            "Orthopedist": true,
+            "Pediatrician": true,
+            "General Physician": true,
+            "Emergency Medicine": true
+        }
+    },
+    {
+        "id": 2,
+        "name": "Apollo Emergency Center",
+        "location": "Hyderabad",
+        "distance_km": 5.1,
+        "on_duty": true,
+        "emergency_available": true,
+        "specialists": {
+            "Cardiologist": true,
+            "Neurologist": true,
+            "Orthopedist": true,
+            "Pediatrician": true,
+            "General Physician": true,
+            "Emergency Medicine": true
+        }
+    },
+    {
+        "id": 3,
+        "name": "Government General Hospital",
+        "location": "Hyderabad",
+        "distance_km": 7.4,
+        "on_duty": true,
+        "emergency_available": true,
+        "specialists": {
+            "Cardiologist": false,
+            "Neurologist": true,
+            "Orthopedist": true,
+            "Pediatrician": true,
+            "General Physician": true,
+            "Emergency Medicine": true
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sunrise Multispeciality Hospital",
+        "location": "Hyderabad",
+        "distance_km": 9.2,
+        "on_duty": true,
+        "emergency_available": true,
+        "specialists": {
+            "Cardiologist": true,
+            "Neurologist": true,
+            "Orthopedist": true,
+            "Pediatrician": true,
+            "General Physician": true,
+            "Emergency Medicine": true
+        }
+    },
+    {
+        "id": 5,
+        "name": "LifeLine Medical Center",
+        "location": "Hyderabad",
+        "distance_km": 6.3,
+        "on_duty": true,
+        "emergency_available": true,
+        "specialists": {
+            "Cardiologist": false,
+            "Neurologist": false,
+            "Orthopedist": true,
+            "Pediatrician": false,
+            "General Physician": true,
+            "Emergency Medicine": true
+        }
+    }
+]
